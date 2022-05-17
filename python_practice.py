@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # function that sums diagonals of a 2D, square matrix
-def diagonal_sum(square_matrix):
+def calculate_diagonal_sum(square_matrix):
     total = 0
     r = 0
     # initialize left and right indices for columns
