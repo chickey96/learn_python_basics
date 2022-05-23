@@ -33,7 +33,7 @@ matrix2 =   [[1,1,1,1],
 
 matrix3 = [[5]]
 
-print(f'{diagonal_sum(matrix1)} should equal 25')
-print(f'{diagonal_sum(matrix2)} should equal 8')
-print(f'{diagonal_sum(matrix3)} should equal 5')
+print(f'{calculate_diagonal_sum(matrix1)} should equal 25')
+print(f'{calculate_diagonal_sum(matrix2)} should equal 8')
+print(f'{calculate_diagonal_sum(matrix3)} should equal 5')
 
